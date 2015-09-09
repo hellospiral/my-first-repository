@@ -2,7 +2,7 @@
 
 ##### Application to solve all conceivable problems, 9/9/15
 
-#### By **Matt Carlson}**
+#### By **Matt Carlson**
 
 ## Description
 
@@ -20,10 +20,10 @@ This app places the user in relation to reality in such a way that all possible 
 
 ## Technologies Used
 
-AngularJS
-Angular UI-Router
-Javascript
-Bootstrap
+*AngularJS
+*Angular UI-Router
+*Javascript
+*Bootstrap
 
 
 ### Legal
